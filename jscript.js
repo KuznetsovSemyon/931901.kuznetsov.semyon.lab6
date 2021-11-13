@@ -1,0 +1,1 @@
+var dialog1 = document.querySelector('#dialog1');
